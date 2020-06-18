@@ -10,4 +10,4 @@ This website is built with Jekyll and "Affiliates" (a Jekyll Template designed &
 
 "Affiliates" for Jekyll is designed and developed by WowThemes.net and it is *free* for personal use.
 
-<a href="https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip" target="_blank">Download - Affiliates Jekyll Theme</a>
+<a href="#target="_blank">{{ site.title }}</a>
