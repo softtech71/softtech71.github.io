@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+order: 4
 menu: true
 ---
 

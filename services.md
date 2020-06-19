@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Service
+order: 2
 menu: true
 comments: true
 ---

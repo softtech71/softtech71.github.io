@@ -2,6 +2,7 @@
 layout: page
 title: About
 menu: true
+order: 3
 comments: true
 ---
 
