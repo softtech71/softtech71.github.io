@@ -67,8 +67,8 @@
                     </div>
                 </li>
              -->
-             {% assign sorted_items = site.pages | sort:"order" %}
-                {% for item in site.pages %}
+             {% assign pages = site.pages | sort:"order" %}
+                {% for item in pages %}
                     {% if item.menu==true %}
                     <li class="nav-item">                
                         <a class="nav-link" href="{{ item.url | prepend: site.baseurl}}">{{item.title}}</a>
