@@ -68,9 +68,9 @@
                 </li>
              -->
 
-                {% for page in site.pages %}
+                {% for item in site.pages %}
                 <li class="nav-item">                
-                    <a class="nav-link" href="{{ page.url | prepend: site.baseurl}}">{{page.title}}</a>
+                    <a class="nav-link" href="{{ item.url | prepend: site.baseurl}}">{{page.title}}</a>
                 </li>
                 {% endfor %}
             </ul>
