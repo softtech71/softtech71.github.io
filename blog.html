@@ -17,9 +17,11 @@ order: 4
 
     {% for post in site.posts %}
 
-            <!-- {% include featuredbox.html %} -->
-            {% include postbox.html %}
+        {% if post.featured == true %}
 
+            {% include featuredbox.html %}
+
+        {% endif %}
 
     {% endfor %}
 
