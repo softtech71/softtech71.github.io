@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Service
+menu: true
 comments: true
 ---
 

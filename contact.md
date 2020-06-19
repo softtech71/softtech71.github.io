@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+menu: true
 ---
 
 <form action="https://formspree.io/{{site.email}}" method="POST">
