@@ -47,6 +47,7 @@ jekyll-archives:
   permalinks:
     category: '/category/:name/'
     
+permalink: /:title    
 # Other
 markdown: kramdown
 highlighter: rouge
