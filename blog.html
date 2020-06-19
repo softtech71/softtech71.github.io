@@ -17,12 +17,8 @@ order: 4
 
     {% for post in site.posts %}
 
-        {% if post.featured == true %}
-
             {% include featuredbox.html %}
-
-        {% endif %}
-
+            
     {% endfor %}
 
     </div>
