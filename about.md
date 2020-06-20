@@ -16,9 +16,6 @@ We the right Solution to you needs as we say we very well understand the consequ
 Our experience has taught us that to provide any solutions; we need creativity and lots of inspired thinking, our experienced professionals along with the 'let-us-do-it' attitude of the fresh talent is constantly pushing the horizons Our values of Integrity, Service, Candor, Kindness, Growth and Continually Increasing Competence govern our behavior towards all our stakeholders.
 <p/>   
 
-<details>
-  <summary>More Details</summary>
-
 <h2>Our Purpose<h2>
 
 Softtech71 want to be leader in the Information Technology industry by providing unique, tailor-made and enhanced services through building long term relationships with a wide range of clients. We provide value to all our customers.
@@ -58,5 +55,4 @@ We view clients as partners, and our success is only measured by the success of 
 Each of our projects starts with the simple question “How will you measure the success of this project?” Success is critical to our team; that success comes in the form of happy clients. To help us better understand the challenges of your project we try to establish not only the goals but what are your current returns, challenges and the opportunities for growth. 
 Our approach has yielded many successful products and happy customers over the years.
   
-</details>
 
