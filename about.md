@@ -16,9 +16,9 @@ We the right Solution to you needs as we say we very well understand the consequ
 Our experience has taught us that to provide any solutions; we need creativity and lots of inspired thinking, our experienced professionals along with the 'let-us-do-it' attitude of the fresh talent is constantly pushing the horizons Our values of Integrity, Service, Candor, Kindness, Growth and Continually Increasing Competence govern our behavior towards all our stakeholders.
 <p/>   
 
-# A collapsible section with markdown
+<button class="btn btn-success-outline">
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Details</summary>
   
   ## Heading
   1. A numbered
@@ -26,3 +26,5 @@ Our experience has taught us that to provide any solutions; we need creativity a
      * With some
      * Sub bullets
 </details>
+</button>
+
