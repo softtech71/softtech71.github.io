@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: default
 title: Blog
 menu: true
 order: 4
----
+--- -->
 
 <!-- Featured
 ================================================== -->
