@@ -1,3 +1,11 @@
+---
+layout: page
+title: Skills
+menu: true
+order: 5
+comments: true
+---
+
 Our Skills
 
 Softtech71 is a company where every solution and service is based on innovation. Our wide range of services that we provide speak volumes about the skills we possess. Our consultants and resources possess strong industry knowledge. With a strong focus on reviving the software development and web development market, Softtech71 intends to use its skills and bring a brand new approach to the industry. Here is a lowdown on the skills that we possess.
