@@ -6,14 +6,60 @@ order: 3
 comments: true
 ---
 
+What We Are
 
-<div class="Section1"><span style="font-size:19.5pt;mso-bidi-font-size:11.5pt;
-color:#1F4E79">What We Are</span> Softtech71 is an IT Firm in Dhaka, Bangladesh. We start from January/2018 but we’re peopled by more than 15 years’ experience, energetic, curious and committed minds who are excited about solving complex business problems, ethically. Conceived with a vision to leave behind a legacy of transformed peoples as an organization, we place a high emphasis on working in partnership with customers. We the right Solution to you needs as we say we very well understand the consequences of this and we actually do this to satisfy our client needs. Our professionals take the time to understand your business needs, suggest re-engineering processes and develop appropriate, cost-effective solutions. Softtech71 has evolved into an advanced solutions provider, focused on servicing customers and creating value through long term relationships that we build. Our experience has taught us that to provide any solutions; we need creativity and lots of inspired thinking, our experienced professionals along with the 'let-us-do-it' attitude of the fresh talent is constantly pushing the horizons Our values of Integrity, Service, Candor, Kindness, Growth and Continually Increasing Competence govern our behavior towards all our stakeholders. <span style="font-size:11.5pt"></span><span style="font-size:19.5pt;mso-bidi-font-size:11.5pt;
-color:#1F4E79">Our Purpose</span> <span style="font-size:11.5pt"></span><span style="font-size:11.5pt">Softtech71 want to be leader in the Information Technology industry by providing unique, tailor-made and enhanced services through building long term relationships with a wide range of clients. We provide value to all our customers.</span> <span style="font-size:11.5pt"></span><span style="font-size:19.5pt;mso-bidi-font-size:11.5pt;
-color:#1F4E79">Our Mission and Vision</span> <span style="font-size:11.5pt"></span>**<span style="font-size:11.5pt">Mission:</span>** To produce excellent services in the field of IT Services and Consultancy, our motto of providing next generation IT services. To envision, design and construct the most magnificent software development and web development services; to contribute tangibly in overall success provide highest Return on Investment to our customers and quality with maximum efforts driven towards customer satisfaction. **<span style="font-size:11.5pt">Vision:</span>** To build upon a reputation of being one of the most innovative IT Solution and Service provider. We believe in doing our work in the most efficient way with robust and structured methodology, with gradual evolution from hard-work to smart- work culture, at client’s end also. Note: Our Mission & Vision to create opportunity for our next generation to be an IT service provider also<span style="font-size:11.5pt">.</span> <span style="font-size:11.5pt"></span><span style="font-size:19.5pt;mso-bidi-font-size:11.5pt;
-color:#1F4E79">Our Ethics</span><span style="font-size:11.5pt"></span> <span style="font-size:11.5pt"></span>**<span style="color:#FF9B00">Technology</span> <span style="color:black">|</span> <span style="color:#810081">Innovation</span> <span style="color:black">|</span> <span style="color:#000081">Quality</span> <span style="color:black">|</span> <span style="color:#659BFF">Customer Satisfaction</span> <span style="color:black">|</span> <span style="color:#009B9B">Win together</span>** **<span style="font-size:9.5pt;color:#009B9B"></span>** **We aim to be the best at what we do.** Softtech71 has a dream of evolving into a Global IT Company, ensuring that the solutions being delivered include best practice in IT with the chosen area of technology.  We operate with complete focus to Maximize customer satisfaction.  Develop and encourage an environment of mutual respect within company and extending it beyond to clients.  Encourage commitment and personal learning of workforce. We are proud to have built our organization on the strong pillars of integrity, honesty, and self-respect. At Softtech71 we believe when creativity, technology and marketing combine through strategic planning incredible results are achievable. With the best interest of our clients in mind, our actions are always focused on conversions and business growth. **_We are the bridge that brings together people, technology and business._** **_<span style="font-size:11.0pt"></span>_** <span style="font-size:19.5pt;mso-bidi-font-size:11.5pt;
-color:#1F4E79">Our Difference</span> <span style="font-size:13.0pt"></span>We view clients as partners, and our success is only measured by the success of our partners. So we put it all on the table in order to exceed expectations. We know each new project is a gamble, but there is no one we’d rather bet on than ourselves. At Softtech71, our culture matters. And it reflects in our work. Here, jobs are careers, not just a way to pay the bills. The finished product matters to us because it carries our name. Our staff is young, energetic and innovative, and we are never afraid to take risks in an effort to help our clients. Every member of our team is passionate about the programming, web as a communications medium as well as a marketplace. For every project, no matter how large or how small, we strive to not only meet your needs, but deliver a showcase in your field. <span style="font-size:11.5pt"></span><span style="font-size:19.5pt;mso-bidi-font-size:11.5pt;
-color:#1F4E79">Our Success</span> <span style="font-size:11.5pt"></span><span style="color:black">Each of our projects starts with the simple question “How will you measure the success of this project?” Success is critical to our team; that success comes in the form of happy clients. To help us better understand the challenges of your project we try to establish not only the goals but what are your current returns, challenges and the opportunities for growth.</span> <span style="color:black">Our approach has yielded many successful products and happy customers over the years.</span> <span style="font-size:13.0pt"></span><span style="font-size:19.5pt;mso-bidi-font-size:11.5pt;
-color:#1F4E79"></span><span style="font-size:19.5pt;mso-bidi-font-size:11.5pt;
-color:#1F4E79"></span><span style="font-size:19.5pt;mso-bidi-font-size:11.5pt;
-color:#1F4E79">Our Team</span><span style="font-size:13.0pt"></span> Softtech71 employs the best talent in the industry. With the objective to provide innovative software development and web development services, we have the right mix of experienced resources as well as fresh minds that bring fresh approach to the table. Keeping in mind the various sectors of the industry that we cater to, our employs highly skilled web designers, software engineers, programmers and business developers. At Softtech71, we believe that our resources are the building blocks of our organization and they represent the face of our organization. That is primarily the reason we stress upon employing the best minds. Every interaction that the customers have with our skilled resources, they can unique different experience that we bring on-board. All our resources and team members are committed to the overall growth and development and strive towards achieving this goal.</div>
+Softtech71 is an IT Firm in Dhaka, Bangladesh. We start from January/2018 but we&#39;re peopled by more than 15 years&#39; experience, energetic, curious and committed minds who are excited about solving complex business problems, ethically. Conceived with a vision to leave behind a legacy of transformed peoples as an organization, we place a high emphasis on working in partnership with customers.
+
+We the right Solution to you needs as we say we very well understand the consequences of this and we actually do this to satisfy our client needs. Our professionals take the time to understand your business needs, suggest re-engineering processes and develop appropriate, cost-effective solutions. Softtech71 has evolved into an advanced solutions provider, focused on servicing customers and creating value through long term relationships that we build.
+
+Our experience has taught us that to provide any solutions; we need creativity and lots of inspired thinking, our experienced professionals along with the &#39;let-us-do-it&#39; attitude of the fresh talent is constantly pushing the horizons Our values of Integrity, Service, Candor, Kindness, Growth and Continually Increasing Competence govern our behavior towards all our stakeholders.
+
+Our Purpose
+
+Softtech71 want to be leader in the Information Technology industry by providing unique, tailor-made and enhanced services through building long term relationships with a wide range of clients. We provide value to all our customers.
+
+Our Mission and Vision
+
+**Mission:**
+
+To produce excellent services in the field of IT Services and Consultancy, our motto of providing next generation IT services. To envision, design and construct the most magnificent software development and web development services; to contribute tangibly in overall success provide highest Return on Investment to our customers and quality with maximum efforts driven towards customer satisfaction.
+
+**Vision:**
+
+To build upon a reputation of being one of the most innovative IT Solution and Service provider. We believe in doing our work in the most efficient way with robust and structured methodology, with gradual evolution from hard-work to smart- work culture, at client&#39;s end also.
+
+Note: Our Mission &amp; Vision to create opportunity for our next generation to be an IT service provider also.
+
+Our Ethics
+
+**Technology**  **|**  **Innovation**  **|**  **Quality**  **|**  **Customer Satisfaction**  **|**  **Win together**
+
+**We aim to be the best at what we do.** Softtech71 has a dream of evolving into a
+
+Global IT Company, ensuring that the solutions being delivered include best practice in IT with the chosen area of technology.
+
+ We operate with complete focus to Maximize customer satisfaction.
+
+ Develop and encourage an environment of mutual respect within company and extending it beyond to clients.
+
+ Encourage commitment and personal learning of workforce.
+
+We are proud to have built our organization on the strong pillars of integrity, honesty, and self-respect.
+
+At Softtech71 we believe when creativity, technology and marketing combine through strategic planning incredible results are achievable. With the best interest of our clients in mind, our actions are always focused on conversions and business growth.
+
+_ **We are the bridge that brings together people, technology and business.** _
+
+Our Difference
+
+We view clients as partners, and our success is only measured by the success of our partners. So we put it all on the table in order to exceed expectations. We know each new project is a gamble, but there is no one we&#39;d rather bet on than ourselves. At Softtech71, our culture matters. And it reflects in our work. Here, jobs are careers, not just a way to pay the bills. The finished product matters to us because it carries our name. Our staff is young, energetic and innovative, and we are never afraid to take risks in an effort to help our clients. Every member of our team is passionate about the programming, web as a communications medium as well as a marketplace. For every project, no matter how large or how small, we strive to not only meet your needs, but deliver a showcase in your field.
+
+Our Success
+
+Each of our projects starts with the simple question &quot;How will you measure the success of this project?&quot; Success is critical to our team; that success comes in the form of happy clients. To help us better understand the challenges of your project we try to establish not only the goals but what are your current returns, challenges and the opportunities for growth.
+
+Our approach has yielded many successful products and happy customers over the years.
+
+Our Team
+
+Softtech71 employs the best talent in the industry. With the objective to provide innovative software development and web development services, we have the right mix of experienced resources as well as fresh minds that bring fresh approach to the table. Keeping in mind the various sectors of the industry that we cater to, our employs highly skilled web designers, software engineers, programmers and business developers. At Softtech71, we believe that our resources are the building blocks of our organization and they represent the face of our organization. That is primarily the reason we stress upon employing the best minds. Every interaction that the customers have with our skilled resources, they can unique different experience that we bring on-board. All our resources and team members are committed to the overall growth and development and strive towards achieving this goal.
