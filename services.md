@@ -19,4 +19,4 @@ Our Product
 2. TMS (Training Management System)
 3. Sale, Distribution &amp; Service Management System [ERP]
 4. HMS (Hospital Management System) ERP
-<button class="btn btn-success" title="More Button">Deatails</button> 
+<!-- <button class="btn btn-success" title="More Button">Deatails</button> -->
