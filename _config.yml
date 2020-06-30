@@ -1,15 +1,15 @@
 # Site
-name: "SoftTech71"
-title: "SoftTech71 - The Right Solutions to your Needs"
+name: "Softtech71"
+title: "Softtech71 - The Right Solutions to your Needs"
 description: "The Right Solutions to your Needs"
 meta_description: "SoftTech71 - The Right Solutions to your Needs"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
-email: 'wowthemesnet@gmail.com'
+email: 'info@Softtech71.com.bd'
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+disqus: ''
 # sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
 # Authors
