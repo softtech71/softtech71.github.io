@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clients
-order: 5
+order: 4
 menu: true
 ---
 
