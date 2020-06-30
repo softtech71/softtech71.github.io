@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Clients
+title: Clients
 order: 5
 menu: true
 ---
