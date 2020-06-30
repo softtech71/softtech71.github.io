@@ -2,7 +2,7 @@
 layout: page
 title: Skills
 menu: true
-order: 5
+order: 4
 comments: true
 ---
 
